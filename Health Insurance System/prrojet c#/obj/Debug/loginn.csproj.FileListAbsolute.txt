@@ -1,0 +1,47 @@
+C:\Users\Malek\source\repos\loginn\bin\Debug\loginn.exe.config
+C:\Users\Malek\source\repos\loginn\bin\Debug\loginn.exe
+C:\Users\Malek\source\repos\loginn\bin\Debug\loginn.pdb
+C:\Users\Malek\source\repos\loginn\obj\Debug\loginn.csproj.AssemblyReference.cache
+C:\Users\Malek\source\repos\loginn\obj\Debug\loginn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Malek\source\repos\loginn\obj\Debug\loginn.Properties.Resources.resources
+C:\Users\Malek\source\repos\loginn\obj\Debug\loginn.csproj.GenerateResource.cache
+C:\Users\Malek\source\repos\loginn\obj\Debug\loginn.csproj.CoreCompileInputs.cache
+C:\Users\Malek\source\repos\loginn\obj\Debug\loginn.exe
+C:\Users\Malek\source\repos\loginn\obj\Debug\loginn.pdb
+C:\Users\Malek\source\repos\loginn\obj\Debug\loginn.login.resources
+C:\Users\Malek\OneDrive\Desktop\loginn\bin\Debug\loginn.exe.config
+C:\Users\Malek\OneDrive\Desktop\loginn\bin\Debug\loginn.exe
+C:\Users\Malek\OneDrive\Desktop\loginn\bin\Debug\loginn.pdb
+C:\Users\Malek\OneDrive\Desktop\loginn\obj\Debug\loginn.csproj.AssemblyReference.cache
+C:\Users\Malek\OneDrive\Desktop\loginn\obj\Debug\loginn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Malek\OneDrive\Desktop\loginn\obj\Debug\loginn.login.resources
+C:\Users\Malek\OneDrive\Desktop\loginn\obj\Debug\loginn.Properties.Resources.resources
+C:\Users\Malek\OneDrive\Desktop\loginn\obj\Debug\loginn.csproj.GenerateResource.cache
+C:\Users\Malek\OneDrive\Desktop\loginn\obj\Debug\loginn.csproj.CoreCompileInputs.cache
+C:\Users\Malek\OneDrive\Desktop\loginn\obj\Debug\loginn.exe
+C:\Users\Malek\OneDrive\Desktop\loginn\obj\Debug\loginn.pdb
+C:\Users\Malek\OneDrive\Desktop\loginn\bin\Debug\loginn.exe.manifest
+C:\Users\Malek\OneDrive\Desktop\loginn\bin\Debug\loginn.application
+C:\Users\Malek\OneDrive\Desktop\loginn\obj\Debug\loginn.exe.manifest
+C:\Users\Malek\OneDrive\Desktop\loginn\obj\Debug\loginn.application
+C:\Users\Malek\OneDrive\Desktop\loginn\obj\Debug\loginn.employ.resources
+C:\Users\Malek\OneDrive\Desktop\loginn\obj\Debug\loginn.admin.resources
+C:\Users\Malek\OneDrive\Desktop\loginn\obj\Debug\loginn.agent.resources
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\obj\Debug\loginn.csproj.AssemblyReference.cache
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\obj\Debug\loginn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\obj\Debug\loginn.exe
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\obj\Debug\loginn.pdb
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\obj\Debug\loginn.admin.resources
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\obj\Debug\loginn.employ.resources
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\obj\Debug\loginn.agent.resources
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\obj\Debug\loginn.Properties.Resources.resources
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\obj\Debug\loginn.csproj.GenerateResource.cache
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\obj\Debug\loginn.csproj.CoreCompileInputs.cache
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\bin\Debug\loginn.exe.config
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\bin\Debug\loginn.exe.manifest
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\bin\Debug\loginn.application
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\bin\Debug\loginn.exe
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\bin\Debug\loginn.pdb
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\obj\Debug\loginn.login.resources
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\obj\Debug\loginn.exe.manifest
+C:\Users\Malek\OneDrive\Desktop\prrojet c#\obj\Debug\loginn.application
